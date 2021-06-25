@@ -4,7 +4,7 @@ Beginning repo from Cybersecurity Bootcamp
 
 The files in this repository were used to configure the network depicted below.
 
-![Network Diagram Pre Elk](Diagrams/Week_12_Network_Digram_Pre_ELK.png)
+![Network Diagram Pre Elk](Diagrams/Azure_ELK_Stack_Diagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Ansible/Full_install.yml.txt file may be used to install only certain pieces of it, such as Filebeat.
 
